@@ -1,0 +1,51 @@
+
+.fb-icon{
+    font-size: 16px !important;
+    transition: all 2s ease-in 2s;
+}
+
+.tw-icon{
+    font-size: 16px !important;
+    transition: all 2s ease-in 2s;
+}
+
+.ins-icon{
+    font-size: 16px !important;
+    transition: all 2s ease-in 2s;
+}
+
+.ins-icon:hover{
+    transform: scale(1.1);
+}
+
+.tw-icon:hover{
+    transform: scale(1.1);
+}
+
+.fb-icon:hover{
+    transform: scale(1.1);
+}
+
+.tw{
+    color: #55ACEE;
+}
+
+.ins{
+    color: #AC2BAC;
+}
+
+.fb{
+    color: #3B5998;
+}
+
+
+/* Media Query */
+@media only screen and (max-width:992px) {
+    
+}
+
+@media only screen and (max-width:768px) {
+    .proficient{
+        padding-top: 20px;
+    }
+}
